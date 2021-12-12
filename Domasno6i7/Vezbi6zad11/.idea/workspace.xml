@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be43d20c-af0b-423f-ae12-d7413cc7de77" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Vezbi6/ListaIminja.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi6/src/ListaIminja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UnionIntersectionOfTwoListsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi6zad2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi6zad2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi6zad2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi6zad2/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi6zad2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi6zad2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi6zad2/ListaDrzavi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi6zad2/src/ListaDrzavi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi6zad3/src/ListaSmerovi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi6zad4/src/ListaCeliBroevi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi6zad5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi6zad5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi6zad5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi6zad5/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi6zad5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi6zad5/src/Vezbi6zad5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi6zad6/src/ListaStringovi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi6zad7/src/ListaStringovi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi6zad8/src/ListaStringovi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi6zad9/src/Fakultet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi6zad9/src/Glavna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi6zadaca10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi6zadaca10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi6zadaca10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi6zadaca10/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi6zadaca10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi6zadaca10/src/UnionIntersectionOfTwoListsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi7zad1/src/Glavna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vezbi7zad4/src/MnozStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MainClass/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="22CE1UkmkyzKQ2bBfyFHpYqcFve" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+  </component>
+  <component name="RunManager">
+    <configuration name="UnionIntersectionOfTwoListsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnionIntersectionOfTwoListsExample" />
+      <module name="Vezbi6zad11" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UnionIntersectionOfTwoListsExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be43d20c-af0b-423f-ae12-d7413cc7de77" name="Changes" comment="" />
+      <created>1639332954786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639332954786</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
